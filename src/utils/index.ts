@@ -1,3 +1,3 @@
 // src/utils/index.ts
 
-export * from "./util-name";
+export * from "./my-util";

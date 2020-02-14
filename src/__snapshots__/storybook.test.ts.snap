@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Header Standard 1`] = `
+<div
+  className="header"
+>
+  <div
+    className="header-title"
+  >
+    Typescript React Storybook Reference Project
+  </div>
+</div>
+`;

@@ -1,0 +1,18 @@
+@import "../../styles/colors.scss";
+
+.header {
+  background-color: $blue;
+  height: 3.75rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+
+  &-title {
+    flex: 0 0 auto;
+    color: $white;
+    font-size: 1.5rem;
+    font-weight: 400;
+  }
+}
