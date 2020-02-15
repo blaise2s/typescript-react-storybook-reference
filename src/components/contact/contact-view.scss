@@ -1,0 +1,19 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  width: 18rem;
+  height: 5rem;
+  background-color: #efefef;
+  border-radius: 0.75rem;
+  padding: 5px;
+
+  &--name {
+    flex: 0 0 auto;
+    font-weight: 400;
+    font-size: 1.5rem;
+  }
+}
